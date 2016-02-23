@@ -1,0 +1,55 @@
+{
+	"ImportPath": "github.com/redbrick/website",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.6.0-9-gfbb98fb",
+			"Rev": "fbb98fbe1fe5f6a4209772b44e2547714992340c"
+		},
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.4-21-g006144a",
+			"Rev": "006144af03eeeff1037240a71865a9fd61f1c25f"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "10ef21a441db47d8b13ebcc5fd2310f636973c77"
+		}
+	]
+}
